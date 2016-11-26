@@ -1,0 +1,10 @@
+dynamic type line.
+array inside an array for better C function.
+Add negate function
+
+add calculate percentages.
+add calculate root.
+add calculate quadrant.
+
+set jss in seprate file
+set style in a seperate file
