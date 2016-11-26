@@ -1,4 +1,27 @@
-                                 Apache License
+     This first section determents how you may use this document if there are gaps in this first section the apache licence will be     
+     empowered, if there are contradictions between the 2 this first section will be empowered.
+     
+     1 You can freely use it for non commercial but you would be a hero if you would place a link to the original github page 
+     https://github.com/Armaniimusproductions/rekenmachine
+     
+     2 You can use it for commercial use as long as you don't sell this code as software so you can use it on your website as extra 
+     functionality or you can use parts of the code for your website or project. also here I strongly feel that you should link to the 
+     github page https://github.com/Armaniimusproductions/rekenmachine.
+     
+     3 Please give me feedback about the project as this is my first design of such a thing and i really love to learn more about 
+     programming.
+     
+     4 let me know if there is anything unclear about this explaination and be free to ask questions.
+     
+     
+
+
+
+
+  End first section
+  -------------------------------------------------------------------------------------------------------------------------------------
+
+                              Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
 
@@ -12,7 +35,10 @@
       "Licensor" shall mean the copyright owner or entity authorized by
       the copyright owner that is granting the License.
 
-      "Legal Entity" shall mean the union of the acting entity and all
+      
+      
+      
+      
       other entities that control, are controlled by, or are under common
       control with that entity. For the purposes of this definition,
       "control" means (i) the power, direct or indirect, to cause the
